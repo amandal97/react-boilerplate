@@ -1,7 +1,7 @@
 # react-boilerplate
 This codebase contains the basic boilerplate code for React, babel and webpack configs without using create-react-app.
 
-Steps for Installation:
+**Steps for Installation:**
 
 1. Clone the repository
 2. npm install / yarn
